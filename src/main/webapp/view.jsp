@@ -18,4 +18,4 @@
 
 <portlet:defineObjects />
 
-This is the <b>myartifact</b>.
+This is the <b>myartifact</b>.(${mytitle})
